@@ -1,8 +1,8 @@
 #!/usr/local/bin/gnuplot
 
-set term aqua
+# set term aqua
 
-# set term pngcairo size 900, 600 enhanced font "Verdana, 14"
+set term pngcairo size 900, 600 enhanced font "Verdana, 14"
 # set output "kleinbottle.png"
 
 set pm3d depthorder hidden3d
