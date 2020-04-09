@@ -2,8 +2,8 @@
 
 # set term aqua
 
-set term pngcairo size 900, 600 enhanced font "Verdana, 14"
-# set output "kleinbottle.png"
+set term aqua
+# set output "kleinbottle.svg"
 
 set pm3d depthorder hidden3d
 set hidden3d
