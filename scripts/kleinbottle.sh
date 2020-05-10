@@ -1,9 +1,6 @@
 #!/usr/local/bin/gnuplot
 
-# set term aqua
-
-set term aqua
-# set output "kleinbottle.svg"
+set term x11
 
 set pm3d depthorder hidden3d
 set hidden3d
