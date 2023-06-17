@@ -1,6 +1,6 @@
-#!/usr/local/bin/gnuplot
+#!/opt/local/bin/gnuplot
 
-set term aqua
+set term aqua title "Gnuplot 3D Test"
 
 set param
 set iso 50

@@ -1,6 +1,6 @@
-#!/usr/local/bin/gnuplot
+#!/opt/local/bin/gnuplot
 
-set term x11
+set term aqua
 
 set pm3d depthorder hidden3d
 set hidden3d
